@@ -1,15 +1,3 @@
 #!/bin/bash
 #gcc -o c $CFILE -E
-#//explanation of -E below
-#{https://studio.segger.com/index.htm?https://studio.segger/cc_option_preprocess.htm}
-#include <stdio.h>
-
-/**
-* main - Entry point
-* 
-* Return: Always 0 (Success)
-*/
-int main(void)
-{
-return (0;)
-}
+#//explanation of -E below {https://studio.segger.com/index.htm?https://studio.segger/cc_option_preprocess.htm}
