@@ -8,10 +8,8 @@ int main(void)
 
 	 a[2] = 1024;
 	 p = &n;
-
 	 /**
 	  * write your line of code here...
-	  * Remember:
 	  * Remember:
 	  * - you are not allowed to modify p
 	  * - only one statement
